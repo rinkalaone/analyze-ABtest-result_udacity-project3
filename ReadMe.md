@@ -10,7 +10,8 @@
  - apply "Hypothesis testing" method
  - build supervised learning model like "Logistic Regression test"
 
-#### The Steps taken to achieve this analysis are described in the jupyter notebook _"Analyze_ab_test_Project.ipynb"_.
+#### The Steps taken to achieve this analysis are described in the jupyter notebook _"Analyze_ab_test_Project.ipynb"_.<br>To use the Table of Contents (not working when viewing the notebook directly in GitHub), view the notebook with "nbviewer" by clicking this link:
+https://nbviewer.jupyter.org/github/rinkalaone/analyze-ABtest-result_udacity-project3/blob/main/Analyze_ab_test_Project.ipynb
 #### The review from a Udacity mentor, is included in _"mentor_review.pdf"_, validating that the project passed successfully for certification
 
 <br>
